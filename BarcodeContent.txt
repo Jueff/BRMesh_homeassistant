@@ -1,0 +1,33 @@
+Sample configuration, decrypted content of BRMeshh application QR barcode for configuration transfer
+
+Decrypted JSON:
+[{
+        "d": "ec0bf1149e86",
+        "v": "4.4.0.3850.53",
+        "n": "Light 9e86",
+        "a": 2,
+        "t": 1
+    }, {
+        "d": "ec0bf1145d7f",
+        "v": "4.4.0.3850.53",
+        "n": "Light 5d7f",
+        "a": 1,
+        "t": 1
+    }, {
+        "d": "ec0bf1148b61",
+        "v": "4.4.0.3850.53",
+        "n": "Light 8b61",
+        "a": 3,
+        "t": 1
+    }, {
+        "d": "ec0bf114c464",
+        "v": "4.4.0.3850.53",
+        "n": "Light c464",
+        "a": 4,
+        "t": 1
+    }
+]
+
+Key: 50379837
+
+
